@@ -2,6 +2,10 @@
 
 ## Dashboard Screenshot
 
+![Image](https://github.com/user-attachments/assets/d8469c59-164b-4c23-a74e-4ecf46205c75)
+
+![Image](https://github.com/user-attachments/assets/44b36c30-a84d-482f-a774-343a2925583d)
+
 
 
 ##  Project Overview
